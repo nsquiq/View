@@ -22,6 +22,7 @@ buildscript {
         set("room_version", "2.5.2")
         set("arch_lifecycle_version", "2.6.1")
     }
+
 }
 
 plugins {
