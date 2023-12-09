@@ -30,4 +30,5 @@
     <string name="cyan">Cyan</string>
     <string name="yellow">Yellow</string>
     <string name="magenta">Magenta</string>
+    <plurals name="number_of_stars">5</plurals>
 </resources>
